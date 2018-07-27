@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/teachingMaterialButton"
+        android:orderInCategory="100"
+        android:title="Teaching Material"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/trainingMaterialButton"
+        android:orderInCategory="100"
+        android:title="Training Material"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/guidanceButton"
+        android:orderInCategory="100"
+        android:title="Guidance"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/pimButton"
+        android:orderInCategory="100"
+        android:title="PIM"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/ExtensionActivityButton"
+        android:orderInCategory="100"
+        android:title="Extension Activity"
+        app:showAsAction="never" />
+    <item
+    android:id="@+id/logoutButton"
+    android:orderInCategory="100"
+    android:title="Logout"
+    app:showAsAction="never" />
+</menu>

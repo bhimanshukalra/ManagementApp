@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/listViewTitle"
+        android:textSize="30sp"
+        android:textColor="#000000"
+        android:layout_weight="1"/>
+
+    <ImageView
+        android:id="@+id/listViewImageView"
+        android:layout_width="50sp"
+        android:layout_height="50sp"/>
+
+</LinearLayout>
