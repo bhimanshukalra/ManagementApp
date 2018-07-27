@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042629100509",
+    "firebase_url": "https://managementapp2.firebaseio.com",
+    "project_id": "managementapp2",
+    "storage_bucket": "managementapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042629100509:android:42044668f5518146",
+        "android_client_info": {
+          "package_name": "com.example.bhimanshu_kalra.managementapp2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042629100509-7b5gh1auh107vv5lc6t73ec2vov3j2ph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhimanshu_kalra.managementapp2",
+            "certificate_hash": "0ae22596d74b41adda74977f1481f145d830e712"
+          }
+        },
+        {
+          "client_id": "1042629100509-id84n1e1uctueqjn8otrn7ahakcf0pkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5QNVNOBU9IYLBJ-Zv_Ey3emX6kkIDCRU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042629100509-id84n1e1uctueqjn8otrn7ahakcf0pkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

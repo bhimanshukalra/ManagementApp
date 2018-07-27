@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ManagementApp2</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="subjectsStrings">
+
+        <item>--Select subject--</item>
+        <item>Science</item>
+        <item>Mathematics</item>
+        <item>Social Science</item>
+        <item>English</item>
+        <item>Life skills</item>
+        <item>Art\Craft</item>
+
+    </string-array>
+
+    <string-array name="uploadDataTypeStrings">
+
+        <item>--Select type--</item>
+        <item>Teaching material</item>
+        <item>Training material</item>
+        <item>Guidance</item>
+        <item>Parents interaction meeting</item>
+        <item>Extension Activity</item>
+        <item>Base material</item>
+        <item>Extra reading</item>
+        <item>Quizzes</item>
+
+    </string-array>
+
+    <string-array name="fileTypeStrings">
+
+        <item>--Select file type--</item>
+        <item>Document</item>
+        <item>Image</item>
+
+    </string-array>
+
+    <string-array name="ageGroupStrings">
+
+        <item>--Select age group--</item>
+        <item>3 - 6</item>
+        <item>7 - 11</item>
+        <item>12 - 14</item>
+        <item>15 - 18</item>
+
+    </string-array>
+
+</resources>
